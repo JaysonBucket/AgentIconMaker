@@ -1,5 +1,9 @@
 # Microsoft 365 Icon Creator (Teams Apps & Copilot Agents)
 
+This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
+https://www.jaysons.dev
+
+## Summary
 A guided Microsoft 365 icon creation agent that helps generate compliant icons for both Microsoft Teams apps and Copilot agents, supporting motif, background, color, and style customization (with Fluent UI defaults) and producing 192×192 color icons and 32×32 outline icons in a structured step-by-step workflow.
 
 <img width="444" height="377" alt="image" src="https://github.com/user-attachments/assets/a3b8eb52-f5a9-4bb6-b96a-67654e7b0b4e" />
